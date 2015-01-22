@@ -9,7 +9,7 @@ Setup
 -----
 
 To setup you will need virtualenv installed on your system.  You can follow
-the instructions from [here](http://www.virtualenv.org/en/latest/virtualenv.html#installation).
+the instructions from [here](http://virtualenv.readthedocs.org/en/latest/installation.html).
 
 Then create a virtual environment with all the tools installed:
 
